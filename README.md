@@ -1,8 +1,17 @@
 # Regression
 This Notebook is a summary of my self-learning of the Regression models. 
-I've created a demo for each model and applied it on a simple dataset.
+I've created a demo for each model and applied it on a simple relevant dataset.
 
-In this Notebook, I'm covering the following models all together since I use the same dataset for both models, so you don't bother linking to Google Drive each time:
+I've gathered the models that use the same dataset in one notebook, so you don't bother linking to Google Drive for each model.
+
+
+Part 1
+In this part, I cover the Simple Linear Regression model.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Part 2
+In this part, I cover the following models all together since I use the same dataset for them:
 
 I. Polynomial Regression
 
@@ -12,7 +21,11 @@ III. Decision Tree
 
 IV. Random Forest Regression
 
-In this 1.1 version, the dataset is to be hosted on the user's Google Drive, and therefore he/she should upload it on their Google Drive and then connect to it as follows: 
+I've made this part available in two versions:
+
+In version 1.0, you don't need to worry about the dataset, because it's hosted on my Google Drive and made public. It's then imported using the necessary code and importing the relevant libraries. On the other hand, in v.1.1 the dataset needs to be hosted on your Google Drive, and therefore you should upload it on your Google Drive and then connect to it using the necessary code.
+
+In version 1.1, the dataset is to be hosted on the user's Google Drive, and therefore he/she should upload it on their Google Drive and then connect to it as follows: 
 - Get the CSV file (attached herewith) and upload it to your Google Drive.
 - Open the notebook file in  Google Colab
 - Run the notebook cell that connects to your Google account
