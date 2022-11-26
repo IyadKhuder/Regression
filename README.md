@@ -38,7 +38,7 @@ the dataset is to be hosted on the user's Google Drive, and therefore he/she sho
 - Run the notebook cell that connects to your Google account
 
 > from google.colab import drive
-drive.mount('/content/drive')
+> drive.mount('/content/drive')
 
 and give it the necessary permission.
 - Having connected to  Google Drive, you'll see an icon for that in the left menu. Expand that icon and locate the CSV file.
