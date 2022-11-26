@@ -27,13 +27,15 @@ For this scenario, I designed the dataset in such a way that the output does not
 
 I've made this part available in two versions:
 
--> In version 1.0, 
+-> In version 1.0 (plug-and-play) 
 
 you don't need to worry about the dataset, because it's hosted on my Google Drive and made public. It's then imported using the necessary libraries and code. On the other hand, in v.1.1 the dataset needs to be hosted on your Google Drive, and therefore you should upload it on your Google Drive and then connect to it using the necessary code.
 
 -> In version 1.1, 
 
-the dataset is to be hosted on the user's Google Drive, and therefore he/she should upload it on their Google Drive and then connect to it as follows: 
+In this version, the dataset is to be hosted on your own Google Drive. 
+You might prefer to migrate this notebook on your premises. In that case, this version is a better option.
+However, you'll need to upload the dataset on your Google Drive and then connect to it as follows: 
 - Get the CSV file (attached herewith) and upload it to your Google Drive.
 - Open the notebook file in  Google Colab
 - Run the notebook cell that connects to your Google account
