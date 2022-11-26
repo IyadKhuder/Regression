@@ -5,12 +5,8 @@ I've created a demo for each model and applied it on a simple relevant dataset.
 I've gathered the models that use the same dataset in one notebook, so you don't bother linking to Google Drive for each model.
 
 
-Part 1
-In this part, I cover the Simple Linear Regression model.
+Part 1: Notebook 1
 
-- - -
-
-Part 2
 In this part, I cover the following models all together since I use the same dataset for them:
 
 I. Polynomial Regression
@@ -44,6 +40,27 @@ will be able to read and import the dataset properly.
 
 A good article on linking Google Drive with your Google Colab notebook:
 https://towardsdatascience.com/different-ways-to-connect-google-drive-to-a-google-colab-notebook-pt-1-de03433d2f7a
+
+- - -
+
+Part 2: Notebook 2
+In this Notebook, I'm covering the following models all together since I use the same dataset for both models, so you don't bother linking to Google Drive each time:
+
+I. Logistic Regression
+
+II. K-Nearest Neighbors (K-NN)
+
+III. Support Vector Machine (SVM)
+
+IV. Kernel SVM
+
+V. Naive Bayes
+
+VI. Decision Tree Classification
+
+VII. Random Forest Classification
+
+
 
 with best regards,
 Iyad Khuder
