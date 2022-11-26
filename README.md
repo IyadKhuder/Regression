@@ -4,15 +4,14 @@ I'm made a simple demo of each model on the same case-study and dataset that I f
 
 I've gathered the following regression models in one notebook, so they can be compared to each other.
 
-**
-I. Polynomial Regression
+*I. Polynomial Regression
 
-II. SVR
+*II. SVR
 
-III. Decision Tree
+*III. Decision Tree
 
-IV. Random Forest Regression
-**
+*IV. Random Forest Regression
+
 
 *Case-study:*
 
