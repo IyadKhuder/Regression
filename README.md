@@ -1,7 +1,6 @@
 # Regression
 This Notebook is a summary of my self-learning of the Regression models. 
 I've created a demo for each model and applied it on a simple dataset.
-In this Notebook, I put multiple regression models all together, since I use the same dataset for them, so if you want to try it, you won't bother linking to Google Drive for each model.
 
 In this Notebook, I'm covering the following models all together since I use the same dataset for both models, so you don't bother linking to Google Drive each time:
 
@@ -13,8 +12,7 @@ III. Decision Tree
 
 IV. Random Forest Regression
 
-
-To run this code on Google Colab, you just need to connect your Google Drive:
+In this 1.1 version, the dataset is to be hosted on the user's Google Drive, and therefore he/she should upload it on their Google Drive and then connect to it as follows: 
 - Get the CSV file (attached herewith) and upload it to your Google Drive.
 - Open the notebook file in  Google Colab
 - Run the notebook cell that connects to your Google account
@@ -34,4 +32,5 @@ will be able to read and import the dataset properly.
 A good article on linking Google Drive with your Google Colab notebook:
 https://towardsdatascience.com/different-ways-to-connect-google-drive-to-a-google-colab-notebook-pt-1-de03433d2f7a
 
-
+with best regards,
+Iyad Khuder
