@@ -8,7 +8,7 @@ I've gathered the models that use the same dataset in one notebook, so you don't
 Part 1
 In this part, I cover the Simple Linear Regression model.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - -
 
 Part 2
 In this part, I cover the following models all together since I use the same dataset for them:
@@ -29,10 +29,10 @@ In version 1.1, the dataset is to be hosted on the user's Google Drive, and ther
 - Get the CSV file (attached herewith) and upload it to your Google Drive.
 - Open the notebook file in  Google Colab
 - Run the notebook cell that connects to your Google account
----
+
 from google.colab import drive
 drive.mount('/content/drive')
----
+
 and give it the necessary permission.
 - Having connected to  Google Drive, you'll see an icon for that in the left menu. Expand that icon and locate the CSV file.
 - Right-click the CSV file and copy its path.
