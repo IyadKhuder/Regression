@@ -38,6 +38,7 @@ the dataset is to be hosted on the user's Google Drive, and therefore he/she sho
 - Run the notebook cell that connects to your Google account
 
 > from google.colab import drive
+> 
 > drive.mount('/content/drive')
 
 and give it the necessary permission.
