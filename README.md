@@ -6,7 +6,7 @@ I've gathered the following regression models in one notebook, so they can be co
 
 - I. Polynomial Regression
 
-- II. SVR*
+- II. SVR
 
 - III. Decision Tree
 
