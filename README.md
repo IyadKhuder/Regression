@@ -48,6 +48,7 @@ Paste that path as the value for the variable Dataset_location_on_Google_Drive i
 
 Thus, the function
 > salaries_dataset = pd.read_csv(Dataset_location_on_Google_Drive+'salary_vs_position.csv')
+
 will be able to read and import the dataset properly.
 
 A good article on linking Google Drive with your Google Colab notebook:
