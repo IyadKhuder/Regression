@@ -1,8 +1,5 @@
 # Regression
-This Notebook is a summary of my self-learning of the Regression models.
-I'm made a simple demo of each model on the same case-study and dataset that I fabricated myself for this purpose.
-
-I've gathered the following regression models in one notebook, so they can be compared to each other.
+This repo is a summary of my self-learning of the Regression models. I've applied each of the following models on the same case-study and dataset that I fabricated myself for this purpose:
 
 - I. Polynomial Regression
 
@@ -12,6 +9,7 @@ I've gathered the following regression models in one notebook, so they can be co
 
 - IV. Random Forest Regression
 
+I've gathered the following regression models in one notebook, so they can be compared to each other.
 
 *Case-study:*
 
