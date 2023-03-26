@@ -13,7 +13,7 @@ I've gathered the following regression models in one notebook, so they can be co
 
 *Case-study:*
 
-*An applicant for the job position "ML engineer" at IDC claimed that his previous gross salary per annum was $65k, given that he worked as a junior ML engineer for 1.5 year and he is assessed to be in the midway between junior and senior ML engineer.*
+*An applicant for the job position "ML engineer" claimed that his previous gross salary per annum was $65k, given that he worked as a junior ML engineer for 1.5 year and he is assessed to be in the midway between junior and senior ML engineer.*
 
 *Based on a data sample of salary averages as a fenction of the position rankings, is he honest or this is a bluff?*
 🙄
